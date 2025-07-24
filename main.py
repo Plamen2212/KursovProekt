@@ -10,6 +10,7 @@ from openai import OpenAI
 # cache response
 # integrate with aws lambda
 # log for errors
+# for now is this
 
 load_dotenv()
 
